@@ -14,8 +14,20 @@
   <li>Now coming to starting point of our React app it's: Index.js.
     <li> In index.js if you see there the first two import statements importing from react and react DOM. <br />
       <img src="https://user-images.githubusercontent.com/68496657/181302769-51de2136-efb8-4ddf-8249-44ad7149e77e.png" alt="Index.js" /> <br/>
-  <li> 'react' specifies that it's an underlying engine and Dom is used for website development.
+  <li> 'react' specifies that it's an underlying engine and Dom is used for website development.<br/>
    
-
+<strong>Day 4: 19th July 2022</strong>
+   <li> On building your react app for the first time you get the build folders we discussed above. <br />
+   <img src="https://user-images.githubusercontent.com/68496657/181210856-9e62214f-405c-4378-9b79-e1a716806f49.png" alt="Build in Directory" />
+   <li> So, just to briefly explain the build folder: 
+      <ol>
+         <li> <strong>manifest.json: </strong> It makes the react app progressive web application compliant. It contains the icons(favicon and both the logo files). This is used to access this application offline as a deskstop application.
+          <li> The npm run build command just optimises the files in the build folder.
+           <li> It optimises the usign: WebPack and Babel.
+           <li> WebPack: It just divides the files in the static directory into smaller and most optimised chunks.
+           <li> Babel: It is used for optimizing the Javascript code. It has a reduced format. Optimial and fastest version for browser to consume.
+         <li> <strong>robots.txt: </strong> It is used for SEO optimisation. This is used to rank your website on Search engines.
+          <li> <strong> Note: Don't eject: engineers at fb are working full time to make create react app as cool and as optimized as possible so, it's normally advised that you don't do eject in react.</strong>
+       
 
 
