@@ -5,4 +5,5 @@ This repository is me documenting my learnings in React everyday for 90 Days. I 
 
 <li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day1.md">Learnings From Day-1: Introduction to React </a>
 <li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day2/Day2.md">Learnings from Day-2 : Setting up Environment for React. </a>
-<li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day3/Day3.md"> Learning from Day-3 and Day-4: React-Scripts. </a>
+<li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day3%20and%20Day%204/Day3%26Day4.md"> Learnings from Day-3 and Day-4: React-Scripts. </a>
+<li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day5/Day5.md"> Learnings from Day-5: About setState and Shallow Merge. </a>
