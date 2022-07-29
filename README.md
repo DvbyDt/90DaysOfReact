@@ -7,3 +7,4 @@ This repository is me documenting my learnings in React everyday for 90 Days. I 
 <li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day2/Day2.md">Learnings from Day-2 : Setting up Environment for React. </a>
 <li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day3%20and%20Day%204/Day3%26Day4.md"> Learnings from Day-3 and Day-4: React-Scripts. </a>
 <li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day5/Day5.md"> Learnings from Day-5: About setState and Shallow Merge. </a>
+<li> <a href= "https://github.com/DvbyDt/90DaysOfReact/blob/main/Day%206/Day6.md"> Learnings from Day-6: Arrays.Map() and about Single Page Applications and Non Single Page Applications. </a>
